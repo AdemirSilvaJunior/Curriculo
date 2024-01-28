@@ -15,6 +15,6 @@ Estou sempre aberto a feedback e sugestões para melhorar minha página de curr�
 
 Contato:
 
-E-mail: [ademir_silva_junior@hotmail.com]
-LinkedIn: [https://www.linkedin.com/in/ademir-silva-junior/]
-Website: [https://ademirsilvajunior.github.io/Curriculo/]
+E-mail: [ademir_silva_junior@hotmail.com]<br>
+LinkedIn: [https://www.linkedin.com/in/ademir-silva-junior/]<br>
+Website: [https://ademirsilvajunior.github.io/Curriculo/]<br>
